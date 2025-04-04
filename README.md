@@ -1,7 +1,7 @@
 For DSA-OOPS Lab
 
-Student ID: [Your Student ID]
+Student ID: 202404040
 
-Name: [Your Name]
+Name: Kuldeep Solanki
 
 Lab Group: 6
